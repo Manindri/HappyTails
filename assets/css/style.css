@@ -1087,6 +1087,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 1;
   font-weight: 300;
   padding-right: 20px;
+  color: #000;
+}
+
+#faq #faq-list a:hover{
+  color: #101E4A;
+  font-weight: bold;
 }
 
 #faq #faq-list i {
@@ -1144,6 +1150,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 1;
   font-weight: 300;
   padding-right: 20px;
+  color: #000;
+}
+
+#pre #pre-list a:hover{
+  font-weight: bold;
 }
 
 #pre #pre-list i {
